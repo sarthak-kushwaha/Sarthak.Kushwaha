@@ -1,6 +1,6 @@
 # Hi, I'm Sarthak Kushwaha! 💪🏻👋🇮🇳
 ![](https://visitor-badge.glitch.me/badge?page_id=sarthak-kushwaha.sarthak-kushwaha&style=flat-square&color=0088cc)
-About Me:-
+![Dino_non-coding_version](https://media.giphy.com/media/nGMnDqebzDcfm/source.gif)
 
 -💪🏻 I’m currently working on building webpages in XD and Figma.
 -🌱 I’m currently learning HTML, CSS, C & JavaScript.
