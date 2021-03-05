@@ -1,4 +1,5 @@
 # Hi, I'm Sarthak Kushwaha! 💪🏻👋🇮🇳
+![](https://visitor-badge.glitch.me/badge?page_id=sarthak-kushwaha.sarthak-kushwaha&style=flat-square&color=0088cc)
 About Me:-
 
 -💪🏻 I’m currently working on building webpages in XD and Figma.
